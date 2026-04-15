@@ -375,7 +375,7 @@ SOFTWARE.
 ## 📬 Contact
 
 - **Author**: Israr Ahmad  
-- **Email**: israrcsc5@gmail.com  
+- **Email**: israr@buaa.edu.cn, l202110005@stu.cqupt.edu.cn  
 - **Affiliation**: School of Computer Science and Technology, Chongqing University of Posts and Telecommunications (CQUPT)  
 - **Project Page**: UAV-Path Planning  
 
